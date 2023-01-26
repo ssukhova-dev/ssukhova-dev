@@ -8,12 +8,10 @@
 Ответственна. Готова к освоению новых технологий, умею работать в команде.
 
 
-<h3>Мой стэк</h3>
-<tr>
-<td>
-<h6>TypeScript • React • Redux • Redux Toolkit • RTK Query • JavaScript • HTML5 • CSS3 • CSS Modules • Webpack</h6>
-</td>
-</tr>
+<h3>Мой стек</h3>
+
+<h6>JavaScript • TypeScript • React • Redux • Redux-Thunk • React Router • React DnD</h6>
+
 
 <!--
 **ssukhova-dev/ssukhova-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
