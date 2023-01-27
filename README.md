@@ -12,6 +12,7 @@
 
 <h6>JavaScript • TypeScript • React • Redux • Redux-Thunk • React Router • React DnD</h6>
 
+<h3>Мой профиль на Хабр Карьера</h3>
 
 https://career.habr.com/svetlancka
 
